@@ -1,6 +1,6 @@
 ---  devletsitesi.netlify.app ---
 # devletsiitesi
-Cloudflare Pages. Test. Volkan. https://devletsitesi.pages.dev/
+Cloudflare Pages. Test. Volkan. https://devletsitesi.com/
 
 #### Hi there 👋
 

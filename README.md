@@ -1,12 +1,12 @@
----  wolkanca.netlify.app ---
-# volkan
-Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
+---  devletsitesi.netlify.app ---
+# devletsiitesi
+Cloudflare Pages. Test. Volkan. https://devletsitesi.pages.dev/
 
 #### Hi there 👋
 
 ## Social
-- Twitter: https://twitter.com/wolkanca
-- Linkedin: https://www.linkedin.com/in/wolkanca/
+- Twitter: https://twitter.com/devletsiitesi
+- Linkedin: https://www.linkedin.com/in/devletsitesi/
 
 
 ## Blog posts

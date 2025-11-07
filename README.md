@@ -38,9 +38,9 @@ Devlet Sitesi. Haber, Son Dakika. devletsitesi. https://devletsitesi.com/
 <li><a href="https://devletsitesi.com/mahkeme-cesitleri/">Mahkeme Çeşitleri</a></li>
 <li><a href="https://devletsitesi.com/ptt-kargo-kapida-odeme/">PTT Kargo Kapıda Ödeme</a></li>
 <li><a href="https://devletsitesi.com/arcelik-senetle-telefon/">Arçelik Senetle Telefon</a></li>
-<li><a href="https://wolkanca.com/meta-ucretli-onay-isareti-basladi/">Meta ücretli onay işareti başladı</a></li>
-<li><a href="https://wolkanca.com/gpt-4lu-bing-yayinda/">GPT-4’lü Bing yayında</a></li>
-<li><a href="https://wolkanca.com/the-last-of-us-izlenme-sayisi/">The Last of Us izlenme sayısı</a></li>
+<li><a href="https://devletsitesi.com/ptt-kargo-kac-gunde-gelir/">PTT Kargo Kaç Günde Gelir</a></li>
+<li><a href="https://devletsitesi.com/pesinatsiz-senetle-araba/">Peşinatsız senetle araba</a></li>
+<li><a href="https://devletsitesi.com/iskur-profil-olusturma/">İŞKUR Profil Oluşturma</a></li>
 <li><a href="https://wolkanca.com/gpt-4-duyuruldu/">GPT-4 duyuruldu</a></li>
 <li><a href="https://wolkanca.com/myheritage-deep-nostalgia/">MyHeritage Deep Nostalgia</a></li>
 <li><a href="https://wolkanca.com/google-bard-arama-degildir/">Google: ‘Bard arama değildir’</a></li>

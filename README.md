@@ -110,7 +110,7 @@ Devlet Sitesi. Haber, Son Dakika. devletsitesi. https://devletsitesi.com/
 <li><a href="https://devletsitesi.com/kuryenet-takip/">KuryeNET Takip</a></li>
 <li><a href="https://devletsitesi.com/engelli-raporu/">Engelli Raporu</a></li>
 <li><a href="https://devletsitesi.com/ceyiz-listesi/">Çeyiz Listesi</a></li>
-<li><a href="https://devletsitesi.com/udf-to-pdf/">UDF TO PDF</a></li>
+<li><a href="https://devletsitesi.com/udf-to-pdf/">UDF to PDF Online UDF dosyası açma programı indir</a></li>
 <li><a href="https://wolkanca.com/chatgpt-isinizi-elinizden-alacak-mi/">ChatGPT işinizi elinizden alacak mı?</a></li>
 <li><a href="https://wolkanca.com/en-yeni-ve-onemli-17-teknoloji-trendi-2023/">En yeni ve önemli 17 teknoloji trendi 2023</a></li>
 <li><a href="https://wolkanca.com/nice-senelere-bitcoin/">Nice senelere Bitcoin!</a></li>

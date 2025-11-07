@@ -11,9 +11,9 @@ Devlet Sitesi. Haber, Son Dakika. devletsitesi. https://devletsitesi.com/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5 çıktı, hepimiz işsiz miyiz artık?](https://wolkanca.com/gpt-5-cikti-hepimiz-issiz-miyiz-artik/)
-- [Test Cihazları: Güvenlik, Kalite ve Verimliliğin Temel Taşı](https://wolkanca.com/test-cihazlari-guvenlik-kalite-ve-verimliligin-temel-tasi/)
-- [Aydınlatma Dünyasında Çığır Açan Keşif: Bu Teknoloji Evleri Geleceğe Taşıyor!](https://wolkanca.com/aydinlatma-dunyasinda-cigir-acan-kesif-bu-teknoloji-evleri-gelecege-tasiyor/)
+- [Devlet Sitesi](https://devletsitesi.com/)
+- [Alkol Fıyarları: Güncel Alkol Fiyatları, Alkol Ne Kadar Oldu?](https://devletsitesi.com/alkol-fiyatlari/)
+- [e Devlet Giriş, e-Devlet Kapısı ,Giriş Yap,Turkiye.gov.tr](https://devletsitesi.com/e-devlet-giris/)
 - [Güç Analizörü Nedir? Enerji Verimliliği ve Kalitesinin Sırrı](https://wolkanca.com/guc-analizoru-nedir-enerji-verimliligi-ve-kalitesinin-sirri/)
 - [Meger Nedir? İzolasyon Direnci Testi ile Elektrik Arızalarını Önleyin](https://wolkanca.com/meger-nedir-izolasyon-direnci-testi-ile-elektrik-arizalarini-onleyin/)
 <!-- BLOG-POST-LIST:END -->
@@ -21,7 +21,7 @@ Devlet Sitesi. Haber, Son Dakika. devletsitesi. https://devletsitesi.com/
 
 <ul id="tumyazilar">
 
-<li><a href="https://devletsitesi.com/dc-sorulari/">Dc Soruları</a></li>
+<li><a href="https://devletsitesi.com/dc-sorulari/">Doğruluk soruları ve cesaret soruları</a></li>
 <li><a href="https://devletsitesi.com/30-gunluk-sigorta-primi-ne-kadar/">30 günlük sigorta primi ne kadar oldu?</a></li>
 <li><a href="https://devletsitesi.com/182-neyin-numarasi/">182 neyin numarası?</a></li>
 <li><a href="https://devletsitesi.com/random-ornekleri/">Random Örnekleri</a></li>
